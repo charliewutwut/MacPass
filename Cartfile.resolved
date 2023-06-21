@@ -1,5 +1,5 @@
 binary "https://sparkle-project.org/Carthage/Sparkle.json" "2.3.0"
 github "charliewutwut/KeePassKit" "89f8c7c185b6d77d48fd004857eccab9a0015974"
 github "charliewutwut/KissXML" "2dfdae48fc1717ee104dd21ae783f21c39889475"
-github "MacPass/TransformerKit" "a8b5bb73cc327ec6798569b865c32fec5eb2289f"
+github "charliewutwut/TransformerKit" "ec67a0c755b7b1eaea4cb6078151919f0f451d6f"
 github "mstarke/HNHUi" "6.0"
